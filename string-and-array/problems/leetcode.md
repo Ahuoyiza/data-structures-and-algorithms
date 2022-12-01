@@ -1,0 +1,6 @@
+1. [Two-sum](https://leetcode.com/problems/two-sum/)
+2. [encrypt-and-decrypt-strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/)
+3. [insert-delete-getrandom](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+4. [find-and-replace-in-string](https://leetcode.com/problems/find-and-replace-in-string/)
+5. [palindrome-pairs](https://leetcode.com/problems/palindrome-pairs/)
+6. [delete-duplicate-folders-in-system](https://leetcode.com/problems/delete-duplicate-folders-in-system/)
